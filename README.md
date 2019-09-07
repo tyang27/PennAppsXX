@@ -1,7 +1,7 @@
 # PennAppsXX
 ## Clustering Movie Scripts into Subgenres To Improve Recommendation Systems
 Movies are often categorized into broad genres, such as horror, drama, and comedy. However, this does not reflect the diversity within these genres.
-We wanted to see if there were other features (that could be automated#) that would improve recommendation systems.
+We wanted to see if there were other features (that could be automated) that would improve recommendation systems.
 We chose to analyze scripts because of their accessibility, and our knowledge of NLP embeddings.
 
 ## Datasets
